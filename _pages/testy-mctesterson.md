@@ -1,6 +1,6 @@
 ---
 ID: 50
-post_title: Mr. First Name Q. Last, Jr.
+post_title: Mr. First Name Q. Last
 author: Testy McTesterson
 post_excerpt: ""
 layout: page
